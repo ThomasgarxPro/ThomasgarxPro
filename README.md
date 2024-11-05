@@ -8,13 +8,7 @@ I'm coding something :)
 **ThomasgarxPro/ThomasgarxPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 -->
 
-- 🔭 I’m currently working on SASS. 
-
-- 🌱 I’m currently learning Node.js and JS.
-
-- 📫 How to reach me : thomas.garx@gmail.com
-
-- 📖 My GitHub Page : https://thomasgarxpro.github.io./
+- 📫 How to reach me : thomasgarx.pro@gmail.com
 
 - 📱 My LinkedIn : https://www.linkedin.com/in/thomas-gar%C3%A9naux-463275193/
 
